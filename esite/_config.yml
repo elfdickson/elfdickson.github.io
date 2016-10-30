@@ -18,7 +18,7 @@ title: Eleanor Dickson
 #description: > # this means to ignore newlines until "baseurl:"
 
 baseurl: "/esite" # the subpath of your site, e.g. /blog
-url: "https://elfdickson.github.io" # the base hostname & protocol for your site
+url: "https://elfdickson.github.io/" # the base hostname & protocol for your site
 twitter_username: EllieDickson
 github_username:  elfdickson
 
